@@ -1,0 +1,28 @@
+<div class="container">
+  <h1>Monty Hall Simulation</h1>
+  <div class="form-group">
+    <label for="simulations">Number of Simulations:</label>
+    <input id="simulations" type="number" [(ngModel)]="numberOfSimulations">
+  </div>
+  <div class="form-group">
+    <label for="changeDoor">Change Door:</label>
+    <select id="changeDoor" [(ngModel)]="changeDoor">
+      <option [ngValue]="true">Yes</option>
+      <option [ngValue]="false">No</option>
+    </select>
+  </div>
+  <button (click)="runSimulation()">Run Simulation</button>
+  <div *ngIf="result" class="result">
+    <h2>Results</h2>
+    <div class="results-container">
+      <div class="result-item" >
+        <img src="assets/car.png" alt="Car" *ngIf="result.wins > 0">
+        <p>Wins: {{ result.wins }}</p>
+      </div>
+      <div class="result-item" >
+        <img src="assets/goat.png" alt="Goat" *ngIf="result.losses > 0">
+        <p>Losses: {{ result.losses }}</p>
+      </div>
+    </div>
+  </div>
+</div>

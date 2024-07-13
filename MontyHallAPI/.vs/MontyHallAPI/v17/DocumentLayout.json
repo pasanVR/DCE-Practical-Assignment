@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|d:\\jobs\\dce\\practical assignment\\montyhallapi\\montyhallapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|solutionrelative:montyhallapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|d:\\jobs\\dce\\practical assignment\\montyhallapi\\montyhallapi\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|solutionrelative:montyhallapi\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|d:\\jobs\\dce\\practical assignment\\montyhallapi\\montyhallapi\\model\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|solutionrelative:montyhallapi\\model\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|d:\\jobs\\dce\\practical assignment\\montyhallapi\\montyhallapi\\model\\simulationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|solutionrelative:montyhallapi\\model\\simulationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|d:\\jobs\\dce\\practical assignment\\montyhallapi\\montyhallapi\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A2ECD5-EC08-495B-B91A-DA0D40BF7867}|MontyHallAPI\\MontyHallAPI.csproj|solutionrelative:montyhallapi\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MontyHallAPI\\Program.cs",
+              "ToolTip": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Program.cs",
+              "RelativeToolTip": "MontyHallAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:12:05.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationController.cs",
+              "DocumentMoniker": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Controllers\\SimulationController.cs",
+              "RelativeDocumentMoniker": "MontyHallAPI\\Controllers\\SimulationController.cs",
+              "ToolTip": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Controllers\\SimulationController.cs",
+              "RelativeToolTip": "MontyHallAPI\\Controllers\\SimulationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "MontyHallAPI\\Services\\SimulationService.cs",
+              "ToolTip": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Services\\SimulationService.cs",
+              "RelativeToolTip": "MontyHallAPI\\Services\\SimulationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:10:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulationResult.cs",
+              "DocumentMoniker": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Model\\SimulationResult.cs",
+              "RelativeDocumentMoniker": "MontyHallAPI\\Model\\SimulationResult.cs",
+              "ToolTip": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Model\\SimulationResult.cs",
+              "RelativeToolTip": "MontyHallAPI\\Model\\SimulationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:09:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulationRequest.cs",
+              "DocumentMoniker": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Model\\SimulationRequest.cs",
+              "RelativeDocumentMoniker": "MontyHallAPI\\Model\\SimulationRequest.cs",
+              "ToolTip": "D:\\jobs\\DCE\\Practical Assignment\\MontyHallAPI\\MontyHallAPI\\Model\\SimulationRequest.cs",
+              "RelativeToolTip": "MontyHallAPI\\Model\\SimulationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:08:21.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

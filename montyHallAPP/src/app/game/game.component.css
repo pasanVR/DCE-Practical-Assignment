@@ -1,0 +1,106 @@
+/* Centering the container */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+/* Styling the container */
+.container {
+  text-align: center;
+  max-width: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  height: 92.5vh;
+}
+
+/* Styling the heading */
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+/* Styling form groups */
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* Styling labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Styling inputs */
+input[type="number"] {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 90px;
+  box-sizing: border-box;
+}
+
+/* Styling select */
+select {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 90px;
+  box-sizing: border-box;
+}
+/* Styling the button */
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Styling the result section */
+.result {
+  margin-top: 20px;
+}
+
+/* Styling the result items to be inline */
+/* Styling the results container */
+.results-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styling the result items */
+.result-item {
+  text-align: center;
+  margin: 0px 50px 0px 50px;
+}
+
+
+
+.result-item p {
+  margin-top: 5px;
+  font-size: x-large;
+}
+
+/* Styling the images */
+img {
+  height: 200px;
+  width: auto;
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MontyHallAPI.Controllers.SimulationController",
+    "Method": "RunSimulation",
+    "RelativePath": "api/Simulation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MontyHallAPI.Model.SimulationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MontyHallAPI.Model.SimulationResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

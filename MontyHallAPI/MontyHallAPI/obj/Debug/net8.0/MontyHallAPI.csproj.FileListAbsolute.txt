@@ -1,0 +1,64 @@
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\appsettings.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.exe
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.deps.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.runtimeconfig.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.pdb
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.csproj.AssemblyReference.cache
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.AssemblyInfoInputs.cache
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.AssemblyInfo.cs
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.csproj.CoreCompileInputs.cache
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.MontyHallAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MontyHallAPI.props
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MontyHallAPI.props
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MontyHallAPI.props
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\scopedcss\bundle\MontyHallAPI.styles.css
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHal.8EC0A869.Up2Date
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\refint\MontyHallAPI.dll
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.pdb
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.genruntimeconfig.cache
+D:\jobs\DCE\New folder (3)\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\ref\MontyHallAPI.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\appsettings.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.exe
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.deps.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.runtimeconfig.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\MontyHallAPI.pdb
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.csproj.AssemblyReference.cache
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.AssemblyInfoInputs.cache
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.AssemblyInfo.cs
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.csproj.CoreCompileInputs.cache
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.MontyHallAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MontyHallAPI.props
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MontyHallAPI.props
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MontyHallAPI.props
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\scopedcss\bundle\MontyHallAPI.styles.css
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHal.8EC0A869.Up2Date
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\refint\MontyHallAPI.dll
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.pdb
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\MontyHallAPI.genruntimeconfig.cache
+D:\jobs\DCE\Practical Assignment\MontyHallAPI\MontyHallAPI\obj\Debug\net8.0\ref\MontyHallAPI.dll
